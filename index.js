@@ -1,4 +1,9 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ * @flow
+ */
 
-AppRegistry.registerComponent('RNZoomduComponent', () => App);
+import demo from './components/demo'
+
+export { demo }

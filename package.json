@@ -1,0 +1,22 @@
+{
+  "name": "react-native-zoomdu-component",
+  "version": "1.0.2",
+  "description": "项目中提取的组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xclidongbo/React-Native-Zoomdu-Component.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "xclidongbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xclidongbo/React-Native-Zoomdu-Component/issues"
+  },
+  "homepage": "https://github.com/xclidongbo/React-Native-Zoomdu-Component#readme"
+}
